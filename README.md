@@ -1,4 +1,4 @@
-# Tugas dan latihan pertemuan 4 
+# Latihan dan tugas di pertemuan 4 
 
 Latihan p4:
 Membuat program konversi detik ke hari, jam, menit, dan detik
