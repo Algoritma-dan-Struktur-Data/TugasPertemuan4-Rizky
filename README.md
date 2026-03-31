@@ -1,4 +1,4 @@
-# Latihan dan tugas di pertemuan 4 
+# Output latihan dan tugas di pertemuan 4 
 
 Latihan p4:
 Membuat program konversi detik ke hari, jam, menit, dan detik
@@ -15,3 +15,9 @@ Tugas p4: Membuat program FizzBuzz, menampilkan angka 1-100 dengan ketentuan seb
 <img width="1412" height="1071" alt="Screenshot 2026-03-31 200527" src="https://github.com/user-attachments/assets/8f06bbae-ac6c-4db2-9532-c9a041987cb8" />
 <img width="1404" height="1012" alt="Screenshot 2026-03-31 200610" src="https://github.com/user-attachments/assets/0d6fbcdb-3118-41fa-b6c3-c24db52589ab" />
 <img width="1385" height="540" alt="Screenshot 2026-03-31 200620" src="https://github.com/user-attachments/assets/0045f40e-fcef-4951-bde0-ca4ce8c1d0dd" />
+
+<hr>
+
+Nama: Muhammad Rizky <br>
+NIM: 251011700758 <br>
+Kelas: 02SIFP012
